@@ -1,9 +1,9 @@
-<h1 align="center"> Hello I'm mayone-du</h1>
+<h1 align="center"> Hello👋 I'm mayone-du</h1>
 
 ## Profile
 
-- I'm 19 years old
-- I'm currently learning Next.js and Django
+- I'm 19 years old🌱
+- I'm currently learning Next.js and Django🔥
 
 ## Languages and Tools
 
