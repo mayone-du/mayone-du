@@ -4,6 +4,9 @@
 
 - I'm 19 years old🌱
 - I'm currently learning Next.js and Django🔥
+- I'm doing Rust, Flutter as a hobby
+
+![mayoen-du's github stats](https://github-readme-stats.vercel.app/api?username=mayone-du)
 
 ## Languages and Tools
 
@@ -47,6 +50,9 @@
   <a href="https://graphql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
   </a>
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+  </a>
 </div>
 
 - ### Infrastructure
@@ -55,16 +61,16 @@
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
-  <!-- <a href="https://aws.amazon.com" target="_blank">
+  <a href="https://aws.amazon.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a> -->
+  </a>
 </div>
 
 - ### Others
 <div>
-  <!-- <a href="https://www.apple.com/" target="_blank">
+  <a href="https://www.apple.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/>
-  </a> -->
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   </a>
