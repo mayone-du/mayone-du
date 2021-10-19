@@ -8,6 +8,8 @@
 
 ![mayoen-du's github stats](https://github-readme-stats.vercel.app/api?username=mayone-du)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayone-du&langs_count=10)
+
 ## Languages and Tools
 
 - ### Frontend
