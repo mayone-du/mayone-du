@@ -3,8 +3,8 @@
 ## Profile
 
 - I'm 19 years old🌱
-- I'm currently learning Next.js and Django🔥
-- I'm doing Rust, Flutter as a hobby
+- I'm currently learning Next.js🔥
+- I'm doing Rust as a hobby
 
 ![mayoen-du's github stats](https://github-readme-stats.vercel.app/api?username=mayone-du)
 
