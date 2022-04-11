@@ -2,7 +2,7 @@
 
 ## Profile
 
-- I'm 19 years old🌱
+- I'm 20 years old🌱
 - I'm currently learning Next.js🔥
 - I'm doing Rust as a hobby
 
