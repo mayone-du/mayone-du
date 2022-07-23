@@ -3,8 +3,6 @@
 ## Profile
 
 - I'm 20 years old🌱
-- I'm currently learning Next.js🔥
-- I'm doing Rust as a hobby
 
 ![mayoen-du's github stats](https://github-readme-stats.vercel.app/api?username=mayone-du)
 
